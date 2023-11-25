@@ -7,3 +7,6 @@ $ sudo su
 ``` python
 print('hello world')
 ```
+
+- [x] Step 1
+- [ ] Step 2
